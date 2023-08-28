@@ -1,0 +1,37 @@
+{
+    "name": "Eu e as Velhas ",
+    "short_name": "PWA",
+    "lang": "pt_BR",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "icons": [
+        
+        {
+            "src": "images/lala.png",
+            "sizes": "256x256",
+            "type": "image/png"
+           
+           
+            
+        },
+     
+        {
+            "src": "images/icont.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+           
+            
+        },
+        {
+            "src": "images/icont.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+           
+            
+        }
+    ]
+}
